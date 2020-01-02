@@ -1,0 +1,2 @@
+Za ovaj program samo je potrebno napraviti bazu nazvanu cart u mysql-u
+te nakon toga ubacivati ove podatke jedan po jedan.
